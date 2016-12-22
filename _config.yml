@@ -1,11 +1,11 @@
 # Site settings
 title: Openedoo | Blog
 description: ""
-url: "http://www.jacoporabolini.com/emerald"
+url: "http://blog.openedoo.org"
 author:
-  name: "Jacopo Rabolini"
-  email: "hello@jacoporabolini.com"
-  url: "http://www.jacoporabolini.com"
+  name: "Openedoo Team"
+  email: "dev@openedoo.corg"
+  url: "http://www.openedoo.org"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /

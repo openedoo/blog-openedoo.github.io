@@ -25,11 +25,11 @@ html {
 
 /*- Link -*/
 a {
-  color: #008A3C;
+  color: #D98735;
   text-decoration: none;
   font-weight: 700; }
   a:hover, a:focus {
-    color: #007131; }
+    color: #ce7a27; }
 
 /*- Typography -*/
 body {
@@ -144,14 +144,14 @@ blockquote {
     #nav a, #nav-left a {
       font-size: 1em; } }
   #nav a:hover, #nav-left a:hover {
-    background-color: #00a447; }
+    background-color: #dd944a; }
 #nav span, #nav-left span {
   font-weight: 200; }
 
 #nav {
   width: 14rem;
   position: fixed;
-  background-color: #008A3C;
+  background-color: #D98735;
   top: 0;
   bottom: 0;
   right: -14rem;
@@ -168,7 +168,7 @@ blockquote {
 #nav-left {
   width: 14rem;
   position: fixed;
-  background-color: #008A3C;
+  background-color: #D98735;
   top: 0;
   bottom: 0;
   left: -14rem;
@@ -374,10 +374,10 @@ code {
     background-color: #f0f0f0;
     color: #222222; }
   .pagination a:hover {
-    background-color: #00a447; }
+    background-color: #dd944a; }
 
 .page-item {
-  background-color: #008A3C;
+  background-color: #D98735;
   color: #FDFDFD;
   padding: 4px 8px;
   font-weight: 400;
@@ -389,7 +389,7 @@ code {
 
 /* Footer */
 footer {
-  background-color: #008A3C;
+  background-color: #D98735;
   color: #FDFDFD;
   text-align: center;
   padding: 0.6667em 0; }

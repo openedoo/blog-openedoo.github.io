@@ -26,11 +26,19 @@ And this is a HTML example, with a linenumber:
 
 {% endhighlight %}
 
-Last, a Ruby example:
+Ruby example:
 {% highlight ruby linenos %}
 
 def hello
   puts "Hello World!"
 end
+
+{% endhighlight %}
+
+Last, a Python example:
+{% highlight python linenos %}
+
+def hello:
+  print "Hello World!"
 
 {% endhighlight %}

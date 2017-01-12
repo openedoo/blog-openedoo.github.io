@@ -4,12 +4,22 @@
  <title>Openedoo | Blog</title>
  <link href="http://blog.openedoo.org/atom.xml" rel="self"/>
  <id>http://blog.openedoo.org</id>
- <updated>2017-01-12T14:30:44+07:00</updated>
+ <updated>2017-01-12T14:59:52+07:00</updated>
  <author>
    <name>Openedoo Team</name>
    <uri>http://www.openedoo.org</uri>
    <email>dev@openedoo.corg</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Cara memasang module pada openedoo</title>
+   <link href="http://blog.openedoo.org/install-module"/>
+   <id>http://blog.openedoo.org/install-module</id>
+   <updated>2017-01-12T00:00:00+07:00</updated>
+   <content type="html">&lt;p&gt;Openedoo menyediakan fitur berupa modul - modul yang disediakan oleh openedoo atau pun yang dibuat oleh komunitas itu sendiri. Openedoo mempunyai keunikan dimana setiap orang yang membuat modul dapat menyimpan di repositori git masing-masing. fitur module yang disediakan oleh openedoo adalah sebagai berikut :&lt;/p&gt; &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. module available :...</content>
+ </entry>
 
  
 

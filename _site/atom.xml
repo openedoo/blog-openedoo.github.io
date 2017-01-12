@@ -4,12 +4,22 @@
  <title>Openedoo | Blog</title>
  <link href="http://blog.openedoo.org/atom.xml" rel="self"/>
  <id>http://blog.openedoo.org</id>
- <updated>2017-01-03T15:54:11+07:00</updated>
+ <updated>2017-01-12T14:30:44+07:00</updated>
  <author>
    <name>Openedoo Team</name>
    <uri>http://www.openedoo.org</uri>
    <email>dev@openedoo.corg</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Perkenalan Awal Openedoo</title>
+   <link href="http://blog.openedoo.org/Perkenalan-Awal"/>
+   <id>http://blog.openedoo.org/Perkenalan-Awal</id>
+   <updated>2017-01-09T00:00:00+07:00</updated>
+   <content type="html">&lt;p&gt;Openedoo merupakan platform &lt;code class=&quot;highlighter-rouge&quot;&gt;open source&lt;/code&gt; (terbuka), kami yakin kalian sudah tahu apa itu &lt;code class=&quot;highlighter-rouge&quot;&gt;open source&lt;/code&gt;. Kalau begitu kita lanjutkan saja apa tujuan dari openedoo. Openedoo itu sendiri yang bertujuan untuk memenuhi kebutuhan web terutama dalam bidang pendidikan. Openedoo sendiri diharapkan bisa menjadi &lt;code class=&quot;highlighter-rouge&quot;&gt;Platform&lt;/code&gt;pendidikan masa depan berdasarkan tujuan...</content>
+ </entry>
 
  
 
@@ -29,86 +39,6 @@
    <id>http://blog.openedoo.org/code-syntax</id>
    <updated>2015-03-01T00:00:00+07:00</updated>
    <content type="html">&lt;p&gt;To insert highlight code inside of a post, it’s enough to use some specific tags, has directly described into the &lt;a href=&quot;http://jekyllrb.com/docs/templates/#code-snippet-highlighting&quot;&gt;Jekyll documentation&lt;/a&gt;. In this way the code will be included into a &lt;code class=&quot;highlighter-rouge&quot;&gt;.highlight&lt;/code&gt; CSS class and will be highlight according to the &lt;a href=&quot;https://github.com/mojombo/tpw/blob/master/css/syntax.css&quot;&gt;syntax.scss&lt;/a&gt; file. This is the...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Example 8</title>
-   <link href="http://blog.openedoo.org/example-8"/>
-   <id>http://blog.openedoo.org/example-8</id>
-   <updated>2015-02-15T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Example 7</title>
-   <link href="http://blog.openedoo.org/example-7"/>
-   <id>http://blog.openedoo.org/example-7</id>
-   <updated>2015-02-15T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Example 6</title>
-   <link href="http://blog.openedoo.org/example-6"/>
-   <id>http://blog.openedoo.org/example-6</id>
-   <updated>2015-02-15T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Example 5</title>
-   <link href="http://blog.openedoo.org/example-5"/>
-   <id>http://blog.openedoo.org/example-5</id>
-   <updated>2015-02-15T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Example 4</title>
-   <link href="http://blog.openedoo.org/example-4"/>
-   <id>http://blog.openedoo.org/example-4</id>
-   <updated>2015-02-15T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Example 3</title>
-   <link href="http://blog.openedoo.org/example-3"/>
-   <id>http://blog.openedoo.org/example-3</id>
-   <updated>2015-02-15T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Example 2</title>
-   <link href="http://blog.openedoo.org/example-2"/>
-   <id>http://blog.openedoo.org/example-2</id>
-   <updated>2015-02-15T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Example 1</title>
-   <link href="http://blog.openedoo.org/example-1"/>
-   <id>http://blog.openedoo.org/example-1</id>
-   <updated>2015-02-15T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate est optio ut impedit architecto iusto tempore rem, voluptates sed magni nisi corrupti praesentium voluptatum harum expedita temporibus ipsam, odit ad distinctio! Labore cupiditate distinctio facere earum, iste! Reiciendis possimus voluptatum explicabo corporis ab. Ex adipisci laudantium mollitia vel optio deserunt...</content>
  </entry>
 
  

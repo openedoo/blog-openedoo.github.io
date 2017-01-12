@@ -21,7 +21,7 @@ Dengan berbasiskan flask maka openedoo dapat menjadikan framework web baik untuk
 	```
 
 3. Mengedit file config.json.example menjadi config.json dengan configurasi anda.
-	```
+	{% highlight html linenos %}
 	{
     "db":
         {
@@ -36,7 +36,7 @@ Dengan berbasiskan flask maka openedoo dapat menjadikan framework web baik untuk
     "config": "Development",
     "secret_key" : "aksaramaya_openedoo"
 	}
-	```
+	{% endhighlight %}
 4. dan sekarang anda siap run dengan perintah
 	```
 	python manage.py run

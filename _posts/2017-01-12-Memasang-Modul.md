@@ -39,13 +39,13 @@ python manage.py module available
 python manage.py module create -n <nama modul>
 ```
 
-anda dapat memasang remote git secara langsung dengan perintah sebagai berikut:
+Anda dapat memasang remote git secara langsung dengan perintah sebagai berikut:
 
 ```
 python manage.py module create -n <nama modul> -r <git remote url>
 ```
 
-### Cara mengupdate module
+### Cara mengperbaruimodule
 
 ```
 python manage.py module update -n <nama modul>

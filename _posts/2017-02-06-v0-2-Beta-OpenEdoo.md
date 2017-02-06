@@ -18,7 +18,7 @@ At the year end of 2016 we've released version vO.2 which we named "Openedoo Bet
 	$ docker-compose stop
 ```
 
-###Run And Play
+### Run And Play
 ```sh
 	$ docker-compose start
 ```
@@ -30,7 +30,7 @@ At the year end of 2016 we've released version vO.2 which we named "Openedoo Bet
 	$ docker-compose start od
 ```
 
-###Manage Module
+### Manage Module
 ```sh
 $ docker-compose stop od
 $ docker-compose run od bash
@@ -38,6 +38,7 @@ $ docker-compose run od bash
 [from_od]$ python manage.py remove test
 [from_od]$ python manage.py install https://github.com/openedoo/module_hello
 ```
+
 ### New Features :
 ```sh
 	- New Command Line Management

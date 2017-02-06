@@ -34,7 +34,9 @@ We just released the first version of vO.1 which we named "Openedoo Core" on Nov
 ```
 
 You can use the terminal to run this application program with the following syntax:
+
 ```sh 
 python manage.py runserver 
 ```
+
 Many explanations about the first version openedoo. I hope you liked our application program. Good luck ... ^^

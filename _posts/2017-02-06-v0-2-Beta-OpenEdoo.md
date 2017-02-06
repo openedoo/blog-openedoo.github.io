@@ -23,7 +23,7 @@ At the year end of 2016 we've released version vO.2 which we named "Openedoo Bet
 	$ docker-compose start
 ```
 
-###Create Module
+### Create Module
 ```sh
 	$ docker-compose stop od
 	$ docker-compose run od python manage.py create "test"
@@ -32,11 +32,11 @@ At the year end of 2016 we've released version vO.2 which we named "Openedoo Bet
 
 ### Manage Module
 ```sh
-$ docker-compose stop od
-$ docker-compose run od bash
-[from_od]$ python manage.py create "test"
-[from_od]$ python manage.py remove test
-[from_od]$ python manage.py install https://github.com/openedoo/module_hello
+	$ docker-compose stop od
+	$ docker-compose run od bash
+	[from_od]$ python manage.py create "test"
+	[from_od]$ python manage.py remove test
+	[from_od]$ python manage.py install https://github.com/openedoo/module_hello
 ```
 
 ### New Features :

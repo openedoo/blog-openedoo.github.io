@@ -14,6 +14,7 @@ We just released the first version of vO.1 which we named "Openedoo Core" on Nov
 	python manage.py db upgrade
 	python manage.py --help 
 ```
+
 ### Creat New Modul
 ```sh 
 	python manage.py create "module_name" 

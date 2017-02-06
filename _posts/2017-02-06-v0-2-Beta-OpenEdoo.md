@@ -1,5 +1,5 @@
 ---
-title: Openedoo v0.2
+title: Openedoo v0.2 Beta
 ---
 ### Hello Friends of OpenEdoo ... !!!
 

@@ -1,5 +1,5 @@
 ---
-title: Openedoo vO.1 Core
+title: Openedoo v0.1 Core
 ---
 
 ### Hello friends of the OpenEdoo ... !!!

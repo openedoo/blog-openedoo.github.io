@@ -18,6 +18,7 @@ Openedoo has been released in the pip with version 1.0.1 on February 7, 2017. On
 ```sh
 	$ docker-compose stop
 ``
+`
 
 ### Run And Play
 ```sh

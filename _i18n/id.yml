@@ -1,0 +1,13 @@
+global:
+  tagline: Indonesia
+  about: Tentang
+  twitter: Twitter
+  github: GitHub
+langs:
+  id: Indonesia
+  en: English
+pages:
+  example: contoh
+  includeexample: The following text is a Jekyll include liquid tag parameter
+titles:
+  pagination: Pagination

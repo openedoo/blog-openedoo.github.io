@@ -1,20 +1,20 @@
 # Site settings
 title: Openedoo | Blog
 description: ""
-url: "http://blog.openedoo.org"
+#url: "http://blog.openedoo.org"
 author:
   name: "Openedoo Team"
   email: "dev@openedoo.corg"
   url: "http://www.openedoo.org"
 
 # Build settings
-baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: "" # Change this to your relative path (ex: /blog/), or leave just a /
 openedoo_url: http://openedoo.org/
 markdown: kramdown
 source: .
-destination: ./_site
-permalink: /:title
-paginate: 8
+#destination: ./_site
+permalink: /:title/
+paginate: 5
 paginate_path: /page:num/
 
 # Default values
@@ -28,7 +28,9 @@ defaults:
 
 # Plugins
 gems:
+  - jekyll-multiple-languages-plugin
   - jekyll-paginate
+
 
 # Custom variables
 version: "1.1.0"
@@ -37,3 +39,7 @@ version: "1.1.0"
 custom_header: false
 custom_nav_footer: false
 reverse: false
+
+# multiple-languages
+languages: ["en","id"]
+exclude_from_localizations: ["javascript", "images", "css", "scripts", "favicon.ico"]

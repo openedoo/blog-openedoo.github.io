@@ -1,6 +1,22 @@
 <header id="header">
-	<a href="{{ site.baseurl }}">
-		<img src="{{ "/img/openedoo.svg" | prepend: site.baseurl | replace: '//', '/' }}" alt="Openedoo Logo">
+	{% if site.lang == "id" %}
+	<a href="/id/">
+		<img src="{{ "/img/openedoo.svg" | prepend: site.baseurl_root | replace: '//', '/' }}" alt="Openedoo Logo">
 	  <h1>Openedoo Blog</h1>
 	</a>
+	{% else %}
+	<a href="/">
+		<img src="{{ "/img/openedoo.svg" | prepend: site.baseurl_root | replace: '//', '/' }}" alt="Openedoo Logo">
+	  <h1>Openedoo Blog</h1>
+	</a>
+	{% endif %}
+	<p>
+		<span>Languages : {% for lang in site.languages %}
+				{% if lang == "en"%}
+					<a href="/">{{lang}}</a> |
+				{% else %}
+					<a href="/{{lang}}{{page.url}}">{{lang}}</a> |
+				{% endif %}
+      {% endfor %}</span>
+	</p>
 </header>

@@ -2,9 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Openedoo | Blog</title>
- <link href="http://blog.openedoo.org/atom.xml" rel="self"/>
- <id>http://blog.openedoo.org</id>
- <updated>2017-01-12T15:02:30+07:00</updated>
+ <link href="/atom.xml" rel="self"/>
+ <id></id>
+ <updated>2017-03-30T17:31:15+07:00</updated>
  <author>
    <name>Openedoo Team</name>
    <uri>http://www.openedoo.org</uri>
@@ -14,41 +14,61 @@
  
 
  <entry>
-   <title>Cara memasang module pada openedoo</title>
-   <link href="http://blog.openedoo.org/install-module"/>
-   <id>http://blog.openedoo.org/install-module</id>
+   <title>Openedoo has realesed in "pip"</title>
+   <link href="/v0-3-RC2-Pip-OpenEdoo/"/>
+   <id>/v0-3-RC2-Pip-OpenEdoo</id>
+   <updated>2017-02-20T00:00:00+07:00</updated>
+   <content type="html">&lt;p&gt;Hello…!!!&lt;/p&gt; &lt;p&gt;Openedoo has been released in the pip with version 1.0.1 on February 7, 2017. On its own version openedoo vO.3 RC-2 which we named “Openedoo pip RC-2” can add pip installation. How do I install openedoo namely with the “pip install openedoo”. Once installed then there command openedoo in...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Openedoo v0.3 RC-1 Core</title>
+   <link href="/v0-3-RC1-Core-OpenEdoo/"/>
+   <id>/v0-3-RC1-Core-OpenEdoo</id>
+   <updated>2017-02-13T00:00:00+07:00</updated>
+   <content type="html">&lt;p&gt;###&lt;/p&gt; &lt;p&gt;At the beginning of this year we’ve released version vO.3 which we named “Openedoo Core RC-1” on January 6, 2017. This is the third version of Openedoo. In openedoo core rc-1 there are a few additional amenities and features that are new in version v0.3 but there are also...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Openedoo v0.2 Beta</title>
+   <link href="/v0-2-Beta-OpenEdoo/"/>
+   <id>/v0-2-Beta-OpenEdoo</id>
+   <updated>2017-02-06T00:00:00+07:00</updated>
+   <content type="html">&lt;h3 id=&quot;hello-friends-of-openedoo--&quot;&gt;Hello Friends of OpenEdoo … !!!&lt;/h3&gt; &lt;p&gt;At the year end of 2016 we’ve released version vO.2 which we named “Openedoo Beta” on December 17, 2016 ago. This is the second version of Openedoo. In openedoo beta there are a few additional amenities and features that are new in version...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>Openedoo v0.1 Core</title>
+   <link href="/v0-1-Core-OpenEdoo/"/>
+   <id>/v0-1-Core-OpenEdoo</id>
+   <updated>2017-01-27T00:00:00+07:00</updated>
+   <content type="html">&lt;h3 id=&quot;hello-friends-of-the-openedoo--&quot;&gt;Hello friends of the OpenEdoo … !!!&lt;/h3&gt; &lt;p&gt;We just released the first version of vO.1 which we named “Openedoo Core” on November 30, 2016. Probably the first version is still quite simple just some basic amenities that we provide. Like migration database, create a new module, and several features...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>How to install the module on openedoo</title>
+   <link href="/Install-Module/"/>
+   <id>/Install-Module-</id>
+   <updated>2017-01-20T00:00:00+07:00</updated>
+   <content type="html">&lt;p&gt;Openedoo provides features such as module - module provided by openedoo or created by the community itself. Openedoo has a unique where every person who makes the module can store in a git repository respectively. module features provided by openedoo are as follows:&lt;/p&gt; &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. module available: serves to...</content>
+ </entry>
+
+ 
+
+ <entry>
+   <title>The Initial Introduction Openedoo</title>
+   <link href="/The-Initial-Introduction/"/>
+   <id>/The-Initial-Introduction</id>
    <updated>2017-01-12T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;Openedoo menyediakan fitur berupa modul - modul yang disediakan oleh openedoo atau pun yang dibuat oleh komunitas itu sendiri. Openedoo mempunyai keunikan dimana setiap orang yang membuat modul dapat menyimpan di repositori git masing-masing. fitur module yang disediakan oleh openedoo adalah sebagai berikut :&lt;/p&gt; &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. module available :...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Perkenalan Awal Openedoo</title>
-   <link href="http://blog.openedoo.org/Perkenalan-Awal"/>
-   <id>http://blog.openedoo.org/Perkenalan-Awal</id>
-   <updated>2017-01-09T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;Openedoo merupakan platform &lt;code class=&quot;highlighter-rouge&quot;&gt;open source&lt;/code&gt; (terbuka), kami yakin kalian sudah tahu apa itu &lt;code class=&quot;highlighter-rouge&quot;&gt;open source&lt;/code&gt;. Kalau begitu kita lanjutkan saja apa tujuan dari openedoo. Openedoo itu sendiri yang bertujuan untuk memenuhi kebutuhan web terutama dalam bidang pendidikan. Openedoo sendiri diharapkan bisa menjadi &lt;code class=&quot;highlighter-rouge&quot;&gt;Platform&lt;/code&gt;pendidikan masa depan berdasarkan tujuan...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Typograhy example</title>
-   <link href="http://blog.openedoo.org/typography"/>
-   <id>http://blog.openedoo.org/typography</id>
-   <updated>2015-03-19T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;&lt;img src=&quot;/emerald/img/img-test.png&quot; alt=&quot;Test&quot; title=&quot;Test&quot; /&gt; Lorem ipsum dolor sit amet, &lt;a href=&quot;http://www.example.com&quot;&gt;consectetur adipisicing&lt;/a&gt; elit. Id, aliquam magni et officiis nemo nihil aliquid placeat alias. Eum voluptates ducimus, nobis ex illum laboriosam quidem corrupti impedit ratione in voluptatum amet beatae facilis temporibus voluptate praesentium voluptatibus! At ab, iusto error amet eveniet...</content>
- </entry>
-
- 
-
- <entry>
-   <title>Code Syntax</title>
-   <link href="http://blog.openedoo.org/code-syntax"/>
-   <id>http://blog.openedoo.org/code-syntax</id>
-   <updated>2015-03-01T00:00:00+07:00</updated>
-   <content type="html">&lt;p&gt;To insert highlight code inside of a post, it’s enough to use some specific tags, has directly described into the &lt;a href=&quot;http://jekyllrb.com/docs/templates/#code-snippet-highlighting&quot;&gt;Jekyll documentation&lt;/a&gt;. In this way the code will be included into a &lt;code class=&quot;highlighter-rouge&quot;&gt;.highlight&lt;/code&gt; CSS class and will be highlight according to the &lt;a href=&quot;https://github.com/mojombo/tpw/blob/master/css/syntax.css&quot;&gt;syntax.scss&lt;/a&gt; file. This is the...</content>
+   <content type="html">&lt;p&gt;Openedoo is an open source platform (open), we’re sure you already know what it’s open source. Then we’ll just continue what the purpose of openedoo. Openedoo itself which aims to meet the needs of web, especially in the field of education. Openedoo itself is expected to be a future education...</content>
  </entry>
 
  

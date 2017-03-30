@@ -15,7 +15,7 @@ At the beginning of this year we've released version vO.3 which we named "Opened
 ### Stop Services
 ```sh
 	$ docker-compose stop
-``
+```
 
 ### Run And Play
 ```sh

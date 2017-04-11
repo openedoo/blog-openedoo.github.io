@@ -4,12 +4,22 @@
  <title>Openedoo | Blog</title>
  <link href="/atom.xml" rel="self"/>
  <id></id>
- <updated>2017-03-30T17:31:15+07:00</updated>
+ <updated>2017-04-11T10:26:02+07:00</updated>
  <author>
    <name>Openedoo Team</name>
    <uri>http://www.openedoo.org</uri>
    <email>dev@openedoo.corg</email>
  </author>
+
+ 
+
+ <entry>
+   <title>Openedoo vO.4</title>
+   <link href="/v0-4-OpenEdoo/"/>
+   <id>/v0-4-OpenEdoo</id>
+   <updated>2017-03-27T00:00:00+07:00</updated>
+   <content type="html">&lt;h5 id=&quot;hallo-para-sahabat-openedoo&quot;&gt;Hallo para sahabat OpenEdoo…!!!&lt;/h5&gt; &lt;p&gt;Di akhir bulan maret ini kami sudah merilis versi vO.4 yang kami beri nama “Openedoo” pada tanggal 27 Maret 2017. Ini adalah versi keempat dari Openedoo. Dalam openedoo ada beberapa tambahan fasilitas dan fitur-fitur yang baru di dalam versi v0.4. Dalam komponen koding didalam kontainer...</content>
+ </entry>
 
  
 

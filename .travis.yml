@@ -1,4 +1,12 @@
 language: ruby
 rvm:
 - 2.3.1
-script: "bundle exec jekyll build"
+install:
+- bundle install
+script: bundle exec jekyll build
+branches:
+  only:
+  - jekyll
+env:
+  global:
+    secure: QsJrj5TgBIFPMw0xAec7/pCtUpoV5DmlTj/SW0g/Vo7LXFYhIDPtowuToUvMB/405q8yTTdCnHxPPaEfdJatdkmKaeY23XevBJ+ylXLqxzlyyqwTTL+S8Korzq0hvWnhdaZhLG6v6kIFobT3TvKVUP9YMuStJ9o4ZuvIQQLJxaC2PFDq+LYdImwE5zlj0a4e3sGUzxmgDtcLhxUkuCii9wcc6L4DVnX7kf7qHfvx8/eWOcZSf8H0ED7mED+jXwWLfkAMijjS62VK1pIU5Fu7EyVeawFssKwAY0cpdgGApdtlNvdogc5NaHeLKNrDUydl2+Qifq7i2OdovBAbJtQJFTDXwu/5LNxImtTe5nOvdG10cvdVP9cPYadeVmL1uCebO9Jr7mhxJiRsmg2B5n1JWWQbMef+xTJO8WKgd1jTeNxOOECwYGdvxpU9CvVBORHzeLUPZmdljWHNPqgverKkisc/B6RfKND/uYmd/C3p1kSBRfBWi74ksHdV/gML5dJqQvQN29ChOK3OB35KSv+odb9dSiHF0j2zKjv5oeGGhq8/B4zeFS67BUzg98f7U5Y0Ty82Xwgoc55FkIJdmWKJf+KSellTlea80zlebHmJ2vR/zqZ8ugoZrswWikHPQxU0cwLFe6rBppChGngbZSKY0PbY+Ctp4KTpiU6v4frvNR4=

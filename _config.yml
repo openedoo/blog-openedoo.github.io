@@ -1,3 +1,8 @@
+# Test settings
+safe: false
+lsi: false
+pygments: true
+
 # Site settings
 title: Openedoo | Blog
 description: ""
